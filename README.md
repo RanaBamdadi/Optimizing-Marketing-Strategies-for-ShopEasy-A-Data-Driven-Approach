@@ -53,3 +53,7 @@ ShopEasy’s marketing efforts face challenges:
 
 ---
 
+## Acknowledgments
+This project was inspired by and guided by the concepts taught in [Ali Ahmad's YouTube video on Marketing Analytics](https://youtube.com/playlist?list=PLMfXakCUhXsHxNShtz2ucsR69RCJqMnnd&si=_9sUR9jJ1Bt-Jloc).
+
+Special thanks to Ali Ahmad for providing an excellent walkthrough of marketing analytics techniques and tools.
